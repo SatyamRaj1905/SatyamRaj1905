@@ -38,6 +38,10 @@
 
 <h3 align="center">“Coding daily so the snake never goes hungry 🐍💪”</h3>
 
-![snake gif](https://github.com/SatyamRaj1905/SatyamRaj1905/blob/output/github-snake-dark.svg)
+<div align="center">
+  
+  ![snake gif](https://github.com/SatyamRaj1905/SatyamRaj1905/blob/output/github-snake-dark.svg)
+</div>
+
 
 
