@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I+am+Satyam+Raj;Patience%2C+Perseverance+and+Hardwork!!" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">"Between algorithms and artistry, I weave worlds where logic meets imagination."</h3>
+<h2 align="center">"Between algorithms and artistry, I weave worlds where logic meets imagination."</h2>
 
 <img align="right" alt = "Coding" width = "400" src = "https://github.com/SatyamRaj1905/SatyamRaj1905/blob/main/video.gif">
 
