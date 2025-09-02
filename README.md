@@ -5,7 +5,7 @@
 
 <h3 align="center">"Between algorithms and artistry, I weave worlds where logic meets imagination."</h3>
 
-<img align="right" alt = "Coding" width = "450" src = "https://github.com/SatyamRaj1905/SatyamRaj1905/blob/main/video.gif">
+<img align="right" alt = "Coding" width = "400" src = "https://github.com/SatyamRaj1905/SatyamRaj1905/blob/main/video.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
