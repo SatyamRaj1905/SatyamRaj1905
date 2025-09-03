@@ -1,6 +1,6 @@
 
 <p align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I+am+Satyam+Raj;Patience%2C+Perseverance+and+Hardwork!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align ="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vcenter=true&width=450&lines=Hi,+I+am+Satyam+Raj;Patience%2C+Perseverance+and+Hardwork!!" alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center">"Between algorithms and artistry, I weave worlds where logic meets imagination."</h2>
