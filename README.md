@@ -38,12 +38,18 @@
 
 ## 📈Statistics
 <div align=center>
-  <img width=400 src="https://nirzak-streak-stats.vercel.app/?user=SatyamRaj1905&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=SatyamRaj1905&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=400 src="https://github-readme-stats-fast.vercel.app/api?username=SatyamRaj1905&show_icons=true&theme=highcontrast" alt="streak stats"/>
+  <img width=350 height=200 src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SatyamRaj1905&repo=github-readme-stats&layout=compact&theme=highcontrast" alt="top langs" />
   <br/>
-  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamRaj1905&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+  <img width=400 src="https://github-readme-stats-fast.vercel.app/api/streak/?username=SatyamRaj1905&repo=github-readme-stats&theme=highcontrast" alt="readme stats" />
+</div> 
 
+<!-- New way to show stats -->
+<!-- <picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=SatyamRaj1905&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=SatyamRaj1905&screen_effect=true&theme=blue_chill&include_all_commits=true">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
+</picture> -->
 
 <h3 align="center">“Coding daily so the snake never goes hungry 🐍💪”</h3>
 
