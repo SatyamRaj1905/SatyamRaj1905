@@ -31,9 +31,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind,git,cpp,ansys" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,c,nextjs,mysql,postgres,java,docker,obsidian,postman" /><br>
-    <img src="https://skillicons.dev/icons?i=bash,cypress,gcp,latex,md,prisma,redux,python,cloudflare,yaml" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,mui,html,css,vscode,github,tailwind,git,cpp,ansys,shopify" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,javascript,typescript,express,mongodb,c,nextjs,mysql,postgres,java,docker,obsidian,postman" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,cypress,gcp,latex,md,prisma,redux,python,cloudflare,yaml" />
 </div>
 
 ## 📈Statistics
