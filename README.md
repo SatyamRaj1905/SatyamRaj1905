@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/satyam-raj-b59061250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam raj" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100010233395750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satyamraj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/strange_quark/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="strange_quark" height="30" width="40" /></a>
-<a href="https://discord.gg/srsatyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="srsatyam" height="30" width="40" /></a>
+<a href="https://discord.gg/A9wzGYj5RM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="srsatyam" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
